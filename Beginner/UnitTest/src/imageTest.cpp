@@ -5,9 +5,11 @@
  *  @brief
  */
 
+#include <iostream>
+
 int main()
 {
-  //TODO
+  std::cout << "Teste" << std::endl;
 
   return 0;
 }
